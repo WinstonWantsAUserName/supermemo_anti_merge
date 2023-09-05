@@ -11,4 +11,4 @@ You can make the time string invisible by adding the following to your `bin/supe
 }
 ```
 
-On why SuperMemo merges HTML text, see [how registry works in SuperMemo](https://supermemopedia.com/wiki/Registry).
+On why SuperMemo merges HTML text, see [how registry works in SuperMemo](https://supermemopedia.com/wiki/Registry). But, simply put, SuperMemo has the same registry entry for texts, as long as the texts are identical. And the one registry entry has the one HTML file. So they merge.
