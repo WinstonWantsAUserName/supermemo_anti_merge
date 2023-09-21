@@ -168,7 +168,6 @@ ParseLineBreaks(str) {
 }
 
 PasteHTML() {
-  this.ActivateElWind()
   send {AppsKey}xp  ; Paste HTML
   while (DllCall("GetOpenClipboardWindow"))
     sleep 1
